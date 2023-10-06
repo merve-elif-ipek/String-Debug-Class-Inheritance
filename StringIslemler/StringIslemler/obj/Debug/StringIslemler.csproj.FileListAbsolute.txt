@@ -1,0 +1,8 @@
+C:\Users\merve\Desktop\acunmedyaakedmi\StringIslemler\StringIslemler\bin\Debug\StringIslemler.exe.config
+C:\Users\merve\Desktop\acunmedyaakedmi\StringIslemler\StringIslemler\bin\Debug\StringIslemler.exe
+C:\Users\merve\Desktop\acunmedyaakedmi\StringIslemler\StringIslemler\bin\Debug\StringIslemler.pdb
+C:\Users\merve\Desktop\acunmedyaakedmi\StringIslemler\StringIslemler\obj\Debug\StringIslemler.csproj.AssemblyReference.cache
+C:\Users\merve\Desktop\acunmedyaakedmi\StringIslemler\StringIslemler\obj\Debug\StringIslemler.csproj.SuggestedBindingRedirects.cache
+C:\Users\merve\Desktop\acunmedyaakedmi\StringIslemler\StringIslemler\obj\Debug\StringIslemler.csproj.CoreCompileInputs.cache
+C:\Users\merve\Desktop\acunmedyaakedmi\StringIslemler\StringIslemler\obj\Debug\StringIslemler.exe
+C:\Users\merve\Desktop\acunmedyaakedmi\StringIslemler\StringIslemler\obj\Debug\StringIslemler.pdb

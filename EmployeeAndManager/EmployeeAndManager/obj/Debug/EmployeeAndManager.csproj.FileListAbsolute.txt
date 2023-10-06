@@ -1,0 +1,8 @@
+C:\Users\merve\Desktop\acunmedyaakedmi\EmployeeAndManager\EmployeeAndManager\bin\Debug\EmployeeAndManager.exe.config
+C:\Users\merve\Desktop\acunmedyaakedmi\EmployeeAndManager\EmployeeAndManager\bin\Debug\EmployeeAndManager.exe
+C:\Users\merve\Desktop\acunmedyaakedmi\EmployeeAndManager\EmployeeAndManager\bin\Debug\EmployeeAndManager.pdb
+C:\Users\merve\Desktop\acunmedyaakedmi\EmployeeAndManager\EmployeeAndManager\obj\Debug\EmployeeAndManager.csproj.AssemblyReference.cache
+C:\Users\merve\Desktop\acunmedyaakedmi\EmployeeAndManager\EmployeeAndManager\obj\Debug\EmployeeAndManager.csproj.SuggestedBindingRedirects.cache
+C:\Users\merve\Desktop\acunmedyaakedmi\EmployeeAndManager\EmployeeAndManager\obj\Debug\EmployeeAndManager.csproj.CoreCompileInputs.cache
+C:\Users\merve\Desktop\acunmedyaakedmi\EmployeeAndManager\EmployeeAndManager\obj\Debug\EmployeeAndManager.exe
+C:\Users\merve\Desktop\acunmedyaakedmi\EmployeeAndManager\EmployeeAndManager\obj\Debug\EmployeeAndManager.pdb

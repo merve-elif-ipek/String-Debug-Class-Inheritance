@@ -1,0 +1,8 @@
+C:\Users\merve\Desktop\acunmedyaakedmi\ErisimBelirtecleri\ErisimBelirtecleri\bin\Debug\ErisimBelirtecleri.exe.config
+C:\Users\merve\Desktop\acunmedyaakedmi\ErisimBelirtecleri\ErisimBelirtecleri\bin\Debug\ErisimBelirtecleri.exe
+C:\Users\merve\Desktop\acunmedyaakedmi\ErisimBelirtecleri\ErisimBelirtecleri\bin\Debug\ErisimBelirtecleri.pdb
+C:\Users\merve\Desktop\acunmedyaakedmi\ErisimBelirtecleri\ErisimBelirtecleri\obj\Debug\Debug.csproj.AssemblyReference.cache
+C:\Users\merve\Desktop\acunmedyaakedmi\ErisimBelirtecleri\ErisimBelirtecleri\obj\Debug\Debug.csproj.SuggestedBindingRedirects.cache
+C:\Users\merve\Desktop\acunmedyaakedmi\ErisimBelirtecleri\ErisimBelirtecleri\obj\Debug\Debug.csproj.CoreCompileInputs.cache
+C:\Users\merve\Desktop\acunmedyaakedmi\ErisimBelirtecleri\ErisimBelirtecleri\obj\Debug\ErisimBelirtecleri.exe
+C:\Users\merve\Desktop\acunmedyaakedmi\ErisimBelirtecleri\ErisimBelirtecleri\obj\Debug\ErisimBelirtecleri.pdb
